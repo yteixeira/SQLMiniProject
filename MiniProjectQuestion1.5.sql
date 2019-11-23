@@ -1,0 +1,1 @@
+SELECT CONCAT(TitleOfCourtesy, ' ', FirstName, ' ',LastName) AS Employee, City FROM Employees
